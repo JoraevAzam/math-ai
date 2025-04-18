@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy
+openai
+pydantic
+python-dotenv
+langdetect
